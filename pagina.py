@@ -301,9 +301,7 @@ with c_box3:
             <li><b>Asimetria (Skewness):</b> {calc_skew:.4f}</li>
             <li><b>Curtosis (Kurtosis):</b> {calc_kurt:.4f}</li>
         </ul>
-        <p style="font-size:11px; color:#64748b; margin-top:15px; margin-bottom:0;">
-            * Parametros agregados para la descripcion formal de la silueta del histograma de edades.
-        </p>
+    
     </div>
     """, unsafe_allow_html=True)
 
